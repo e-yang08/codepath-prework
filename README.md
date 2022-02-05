@@ -2,12 +2,12 @@ Codepath Prework Project (Android App development)
 ## Hello World
 
 ### App Description
-`This application shows a page with letters and buttons which modify letters and backgrounds.` Add app description
+This application shows a page with letters and buttons which modify letters and backgrounds.
 
 ### App Walk-though
-`Below is a gif that animated app walk-though.` 
+Below is a gif that animated app walk-though.
 
-<img src="YOUR_GIF_URL_HERE" width=200><br>
+<img src="https://i.imgur.com/L2UBL8e.gifv" width=200><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
