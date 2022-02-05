@@ -10,7 +10,7 @@ Below is a gif that animated app walk-though.
 <img src="https://user-images.githubusercontent.com/95173202/152622646-3e9a19fd-164d-4806-a150-96dafddba5ee.gif" width=200><br>
 
 ### Required User Stories
-- [x] 1. User sees custom text in a label - Hello World Erela!
+- [x] 1. User sees custom text in a label - "Hello World Erela!"
 - [x] 2. User see's custom background color.
 - [x] 3. User can tap a button to change the text color of the label.
 
