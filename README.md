@@ -4,8 +4,8 @@ Codepath Prework Project (Android App development)
 ### App Description
 This application shows a page with letters and buttons which modify letters and backgrounds.
 
-### App Walk-though
-Below is a gif that animated app walk-though.
+### App Walk-through
+Below is a gif that animated app walk-through.
 
 <img src="https://user-images.githubusercontent.com/95173202/152622646-3e9a19fd-164d-4806-a150-96dafddba5ee.gif" width=200><br>
 
